@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589982645170.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2685410717",
+    "id" : "37581867",
+    "lastKnownWriteTime" : 1590201338,
+    "last_content_update" : 1590201338719,
+    "path" : "C:/Users/Asuka/OneDrive/西浦/社会网络分析/R/coursework.R",
+    "project_path" : "coursework.R",
+    "properties" : {
+        "cursorPosition" : "284,63",
+        "scrollLine" : "260"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
